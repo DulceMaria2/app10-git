@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VisualLightBox>
+    <Gallery version="2.5">
+        <Settings>
+            <AppName>WOW Slider</AppName>
+            <AppUrlS>WOWSlider.com</AppUrlS>
+            <AppVersion>8.7</AppVersion>
+            <AutoPlay>true</AutoPlay>
+            <AutoPlayVideo>false</AutoPlayVideo>
+            <Captions>true</Captions>
+            <CaptionsEffect>parallax</CaptionsEffect>
+            <Controls>true</Controls>
+            <FontSize>14</FontSize>
+            <FullScreen>false</FullScreen>
+            <GalleryName>visor-app10</GalleryName>
+            <GallerySuffix>1</GallerySuffix>
+            <HtmlCharset>UTF-8</HtmlCharset>
+            <ImageAspectRatio>true</ImageAspectRatio>
+            <ImageEffect>dribbles</ImageEffect>
+            <ImageFillColor>#000000</ImageFillColor>
+            <ImageHeight>360</ImageHeight>
+            <ImageQuality>90</ImageQuality>
+            <ImageShrink2>false</ImageShrink2>
+            <ImageStretch>true</ImageStretch>
+            <ImageTemplate>C:/Program Files (x86)/WOW Slider/templates/backgnd/crystal/</ImageTemplate>
+            <ImageTemplateName>Crystal</ImageTemplateName>
+            <ImageWidth>640</ImageWidth>
+            <Images>true</Images>
+            <JoomlaType>2.5</JoomlaType>
+            <OneLoop>false</OneLoop>
+            <OrderRandom>false</OrderRandom>
+            <PlayPause>true</PlayPause>
+            <Preloader>false</Preloader>
+            <PublishIndex>wowslider.html</PublishIndex>
+            <PublishPreview>true</PublishPreview>
+            <PublishType>file</PublishType>
+            <RelativePath>false</RelativePath>
+            <ShowBullets>1</ShowBullets>
+            <ShowControls>false</ShowControls>
+            <ShowTooltips>1</ShowTooltips>
+            <SizeStyle>1</SizeStyle>
+            <SlideshowDelay>20</SlideshowDelay>
+            <SlideshowDuration>20</SlideshowDuration>
+            <SoundEnable>0</SoundEnable>
+            <SoundFileName></SoundFileName>
+            <StopOnHover>false</StopOnHover>
+            <SwipeSupport>2</SwipeSupport>
+            <TemplateColor>#fff</TemplateColor>
+            <TemplateFont>Tahoma</TemplateFont>
+            <TemplateName>crystal</TemplateName>
+            <ThumbAlign>bottom</ThumbAlign>
+            <ThumbFormat>jpg</ThumbFormat>
+            <ThumbHeight>48</ThumbHeight>
+            <ThumbQuality>90</ThumbQuality>
+            <ThumbWidth>0</ThumbWidth>
+            <Thumbnails>false</Thumbnails>
+            <TooltipPos>bottom</TooltipPos>
+            <noFrame>0</noFrame>
+        </Settings>
+        <Images RelativePath="false">
+            <Image>
+                <url>E:/DAM/TERCER PARCIAL/aplicaciones/app10/imagenes/1dmt.jpg</url>
+                <title>1dmt</title>
+                <filesize>102216</filesize>
+            </Image>
+            <Image>
+                <url>E:/DAM/TERCER PARCIAL/aplicaciones/app10/imagenes/2dmt.jpg</url>
+                <title>2dmt</title>
+                <filesize>45560</filesize>
+            </Image>
+            <Image>
+                <url>E:/DAM/TERCER PARCIAL/aplicaciones/app10/imagenes/3dmt.jpg</url>
+                <title>3dmt</title>
+                <filesize>462369</filesize>
+            </Image>
+            <Image>
+                <url>E:/DAM/TERCER PARCIAL/aplicaciones/app10/imagenes/4dmt.jpg</url>
+                <title>4dmt</title>
+                <filesize>60864</filesize>
+            </Image>
+            <Image>
+                <url>E:/DAM/TERCER PARCIAL/aplicaciones/app10/imagenes/5dmt.jpg</url>
+                <title>5dmt</title>
+                <filesize>14769</filesize>
+            </Image>
+            <Image>
+                <url>E:/DAM/TERCER PARCIAL/aplicaciones/app10/imagenes/6dmt.jpg</url>
+                <title>6dmt</title>
+                <filesize>353845</filesize>
+            </Image>
+            <Image>
+                <url>E:/DAM/TERCER PARCIAL/aplicaciones/app10/imagenes/7dmt.jpg</url>
+                <title>7dmt</title>
+                <filesize>22520</filesize>
+            </Image>
+            <Image>
+                <url>E:/DAM/TERCER PARCIAL/aplicaciones/app10/imagenes/8dmt.jpg</url>
+                <title>8dmt</title>
+                <filesize>91127</filesize>
+            </Image>
+        </Images>
+    </Gallery>
+</VisualLightBox>
